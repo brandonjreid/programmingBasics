@@ -124,3 +124,17 @@ pok1.speed_check(pok1)
 # import statistics
 #print("library average:", statistics.mean(scores))	
 
+
+
+
+# pygame
+# Run platformer.py
+
+# Improvement ideas:
+# Change the level
+# Add a different level
+# Switch between the levels
+# Move code that creates platforms out of Level1 and into a reusable function
+# Add an image for the Player sprite
+# Add enemies
+# Change the sprite direction when moving left/right
