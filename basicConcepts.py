@@ -130,11 +130,10 @@ pok1.speed_check(pok1)
 # pygame
 # Run platformer.py
 
-# Improvement ideas:
-# Change the level
-# Add a different level
-# Switch between the levels
+# Improvement ideas: (easy to hard)
 # Move code that creates platforms out of Level1 and into a reusable function
-# Add an image for the Player sprite
-# Add enemies
+# Change the level
+# Add an image for the Player sprite (can't be done on trinket)
 # Change the sprite direction when moving left/right
+# Add a second level & switch between them
+# Add enemies
