@@ -7,7 +7,7 @@ Code can be tested/edited on trinket.io if python or IDEs can't be installed on 
 basicConcepts.py goes over the basics of programming languages (variables, conditionals, loops, functions, etc).
 
 ## Hands On Experience
-For some fun, hands-on experience, select one of three games, test out the code, look through it, and try to make it better.
+For some fun, hands-on experience there is code for a basic game. Look through it, and try to make it better.
 
 ### Scrolling Platformer
 This is a basic platformer game.  Some ideas on how to improve it:
@@ -16,4 +16,5 @@ This is a basic platformer game.  Some ideas on how to improve it:
 3. (After #1) Use multiple images for the player sprite (running vs jumping). Switch to the jumping image while the player is in the air (and switch back).
 4. Use an image/texture for platforms
 5. Create a You Win! screen after the last level
-6. Create an enemy that moves in one direction, add collision detection and a game over screen.
+6. Create an enemy that moves in one direction. Add collision detection and a game over screen.
+7. Create a floor instead of running on the bottom of the screen.  Add a pit and go to game over screen if the player falls in.
